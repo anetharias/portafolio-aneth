@@ -60,7 +60,6 @@ export const Banner = () => {
                   <p>Soy una ingeniera en sistemas titulada con dos años de experiencia en la creación de páginas web utilizando tecnologías como React, HTML, CSS y JavaScript.
                   Durante mi carrera profesional, he tenido la oportunidad de trabajar en diversos proyectos que me han permitido desarrollar habilidades sólidas en el diseño y desarrollo de interfaces web atractivas y funcionales. 
                   </p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
