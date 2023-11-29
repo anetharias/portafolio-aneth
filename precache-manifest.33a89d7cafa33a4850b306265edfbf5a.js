@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "10da461f0b7e28a2d2de",
-    "url": "/portafolio-aneth/static/css/main.79c4c6d9.chunk.css"
+    "revision": "e20bbbec774ddbb971d0",
+    "url": "/portafolio-aneth/static/css/main.fa9f7454.chunk.css"
   },
   {
-    "revision": "10da461f0b7e28a2d2de",
-    "url": "/portafolio-aneth/static/js/main.10da461f.chunk.js"
+    "revision": "e20bbbec774ddbb971d0",
+    "url": "/portafolio-aneth/static/js/main.e20bbbec.chunk.js"
   },
   {
-    "revision": "bd78a5334beda9fcdcb7",
-    "url": "/portafolio-aneth/static/js/1.bd78a533.chunk.js"
+    "revision": "6aa14f7a3799dabaa93f",
+    "url": "/portafolio-aneth/static/js/1.6aa14f7a.chunk.js"
   },
   {
-    "revision": "d4293925620a063af82d",
-    "url": "/portafolio-aneth/static/css/2.1ac52486.chunk.css"
+    "revision": "63462916a88e2f1540d9",
+    "url": "/portafolio-aneth/static/css/2.ed9cd3ac.chunk.css"
   },
   {
-    "revision": "d4293925620a063af82d",
-    "url": "/portafolio-aneth/static/js/2.d4293925.chunk.js"
+    "revision": "63462916a88e2f1540d9",
+    "url": "/portafolio-aneth/static/js/2.63462916.chunk.js"
   },
   {
-    "revision": "a50089521fddb5547dfb",
-    "url": "/portafolio-aneth/static/js/runtime~main.a5008952.js"
+    "revision": "41d89086abb31d2beef1",
+    "url": "/portafolio-aneth/static/js/runtime~main.41d89086.js"
   },
   {
     "revision": "d088d93cf0b893d29baf0993ef52c663",
@@ -96,36 +96,36 @@ self.__precacheManifest = [
     "url": "/portafolio-aneth/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/portafolio-aneth/static/media/CentraNo2-Bold.4ea3794d.ttf"
-  },
-  {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/portafolio-aneth/static/media/CentraNo2-Medium.63911e85.ttf"
+  },
+  {
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/portafolio-aneth/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/portafolio-aneth/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
-    "revision": "5f3ca49706055342e92708c7dd31849f",
-    "url": "/portafolio-aneth/static/media/banner-bg.5f3ca497.png"
-  },
-  {
     "revision": "e9228c17c13a87653f1b8ed01a3ff306",
     "url": "/portafolio-aneth/static/media/footer-bg.e9228c17.png"
   },
   {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/portafolio-aneth/static/media/revicons.17629a5d.ttf"
+    "revision": "5f3ca49706055342e92708c7dd31849f",
+    "url": "/portafolio-aneth/static/media/banner-bg.5f3ca497.png"
+  },
+  {
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/portafolio-aneth/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
     "url": "/portafolio-aneth/static/media/revicons.04eb8fc5.woff"
   },
   {
-    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
-    "url": "/portafolio-aneth/static/media/revicons.2feb69cc.eot"
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/portafolio-aneth/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "f750170aaddf4e5f885a27d391a311d9",
@@ -144,7 +144,7 @@ self.__precacheManifest = [
     "url": "/portafolio-aneth/static/media/coru2.504224d8.png"
   },
   {
-    "revision": "71576f5ad0d6afb091507b01c713ed80",
+    "revision": "19ac76fcebdca64b061270eb480bfc72",
     "url": "/portafolio-aneth/index.html"
   }
 ];
